@@ -1,4 +1,3 @@
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,50:071B2F,100:00F7FF&height=180&section=header&text=VIN%C3%8DCIUS%20FERNANDES%20VIEIRA&fontSize=34&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=TECNOLOGIA%20EM%20INTELIG%C3%8ANCIA%20ARTIFICIAL%20%7C%20ESTUDANTE%20%7C%20DESENVOLVIMENTO&descAlignY=62&descSize=14&descColor=9AE6FF"/>
 
 <br>
