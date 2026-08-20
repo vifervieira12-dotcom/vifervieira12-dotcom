@@ -118,7 +118,7 @@ Meu principal objetivo neste momento é conquistar minha **primeira oportunidade
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:vifervieira12@gmail.com">
+<a href="vifervieira12@gmail.com">
 <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=111827"/>
 </a>
 
