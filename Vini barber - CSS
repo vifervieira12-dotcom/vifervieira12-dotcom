@@ -63,8 +63,8 @@ nav a:hover {
 /* Seletor da seção hero (banner principal) */
 .hero {
     /* Define o arquivo da imagem informada como fundo do banner */
-    background-image: url("Gemini_Generated_Image_lb1lrslb1lrslb1l.jpeg");
-    background-color: #1a1a1a; /* Cor de segurança caso a imagem demore para carregar */
+    background-image: url('./watermarked_img_6750095139909440163.jpg');
+    background-color:#1a1a1a; /* Cor de segurança caso a imagem demore para carregar */
     padding: 200px 20px;
     background-size: cover;
     background-position: center;
