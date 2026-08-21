@@ -37,14 +37,14 @@ Meu principal objetivo neste momento é conquistar minha **primeira oportunidade
 │  🎓 Curso: Tecnologia em Inteligência Artificial     │
 │  📚 Semestre: 2º de 4                                │
 │  🎯 Objetivo: Primeiro estágio em TI                 │
-│                                                       │
+│                                                      │
 │  ✓ Fundamentos de programação                        │
 │  ✓ Linguagem C                                       │
 │  ✓ HTML                                              │
 │  ✓ CSS                                               │
-│  → Python                                            │                                
+│  → Python                                            │
 │  → Inteligência Artificial                           │
-│                                                      │                         
+│                                                      │
 └──────────────────────────────────────────────────────┘
 ```
 
@@ -85,18 +85,18 @@ Meu principal objetivo neste momento é conquistar minha **primeira oportunidade
 
 ```text
 ╔══════════════════════════════════════════════════════════╗
-║                    MISSION: INTERNSHIP                   ║
+║                   MISSION: INTERNSHIP                    ║
 ╠══════════════════════════════════════════════════════════╣
 ║                                                          ║
-║  ○ Conquistar minha primeira oportunidade em TI        ║
+║  ○ Conquistar minha primeira oportunidade em TI          ║
 ║                                                          ║
-║  ○ Transformar conhecimento acadêmico em prática        ║
+║  ○ Transformar conhecimento acadêmico em prática         ║
 ║                                                          ║
-║  ○ Desenvolver projetos e aprender novas tecnologias    ║
+║  ○ Desenvolver projetos e aprender novas tecnologias     ║
 ║                                                          ║
-║  ○ Aprender com uma equipe e contribuir com soluções    ║
+║  ○ Aprender com uma equipe e contribuir com soluções     ║
 ║                                                          ║
-║  ○  Evoluir profissionalmente na área de tecnologia      ║
+║  ○ Evoluir profissionalmente na área de tecnologia       ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
@@ -139,11 +139,11 @@ Meu principal objetivo neste momento é conquistar minha **primeira oportunidade
 ```text
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║              LEARN • BUILD • EVOLVE                     ║
+║                  LEARN • BUILD • EVOLVE                  ║
 ║                                                          ║
-║       "Every expert was once a beginner."               ║
+║           "Every expert was once a beginner."            ║
 ║                                                          ║
-║              — VINÍCIUS FERNANDES VIEIRA                ║
+║               — VINÍCIUS FERNANDES VIEIRA                ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
