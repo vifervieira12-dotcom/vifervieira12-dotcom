@@ -59,7 +59,7 @@
             <!-- Título de nível 2 da seção Sobre Nós -->
             <h2>Sobre Nós</h2>
             <!-- Parágrafo descritivo sobre a barbearia, sua proposta e valores -->
-            <p>A Vini Barber resgata a essência das barbearias clássicas, oferecendo um atendimento de excelência com profissionais mestres na tesoura e navalha. Nosso espaço foi pensado para você relaxar, tomar uma cerveja gelada e cuidar do seu visual com conforto e exclusividade.</p>
+            <p>A Vini Barber resgata a essência das barbearias clássicas, oferecendo um atendimento de excelência com profissionais mestres na tesoura e navalha. Nosso espaço foi pensado para você relaxar, cuidar do seu visual com conforto e exclusividade.</p>
         <!-- Fechamento da seção Sobre Nós -->
         </section>
 
@@ -93,7 +93,7 @@
                     <!-- Título nível 3 com o nome do combo -->
                     <h3>💈 Combo VIP (Corte + Barba)</h3>
                     <!-- Descrição dos serviços incluídos no combo -->
-                    <p>O pacote completo para o seu visual, incluindo lavagem, corte, barba e uma bebida cortesia.</p>
+                    <p>O pacote completo para o seu visual, incluindo lavagem, corte, barba e uma incrível experiência.</p>
                 <!-- Fechamento do card de combo -->
                 </div>
 
