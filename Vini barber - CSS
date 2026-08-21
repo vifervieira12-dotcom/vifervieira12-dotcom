@@ -1,0 +1,189 @@
+/* :root define o elemento raiz do documento, usado aqui para declarar variáveis globais reaproveitáveis */
+:root {
+    /* Cores adaptadas para o tema Barbearia */
+    --cor-primaria: #1a1a1a; /* Preto para o fundo do cabeçalho/rodapé */
+    --cor-secundaria: #D4AF37; /* Dourado para destaques, botões e efeitos */
+    --cor-fundo-body: #f4f4f4; /* Cinza claro para o fundo geral da página */
+    --cor-fundo-secao: #ffffff; /* Branco para o fundo das seções */
+    --cor-fundo-card: #2c2c2c; /* Cinza escuro para os cards de serviços */
+    --cor-texto-card: #f4f4f4; /* Texto claro dentro dos cards */
+    --verde-whatsapp: #25D366;
+    --branco: #ffffff;
+    --texto-escuro: #333333;
+}
+
+/* Seletor universal (*) aplica as regras a absolutamente todos os elementos da página (reset CSS) */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Seletor do corpo principal da página */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: var(--cor-fundo-body);
+    color: var(--texto-escuro);
+}
+
+/* Seletor da classe .cabecalho */
+.cabecalho {
+    background: var(--cor-primaria);
+    color: var(--cor-secundaria);
+    text-align: center;
+    padding: 20px;
+    border-bottom: 3px solid var(--cor-secundaria); /* Detalhe em linha dourada */
+}
+
+/* Seletor de listas dentro do menu de navegação */
+nav ul {
+    list-style: none;
+    margin-top: 10px;
+}
+
+/* Seletor de itens da lista de navegação */
+nav li {
+    display: inline;
+    margin: 0 10px;
+}
+
+/* Seletor de links no menu de navegação */
+nav a {
+    color: var(--branco);
+    text-decoration: none;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+/* Efeito ao passar o mouse sobre o link do menu */
+nav a:hover {
+    color: var(--cor-secundaria);
+}
+
+/* Seletor da seção hero (banner principal) */
+.hero {
+    /* Define o arquivo da imagem informada como fundo do banner */
+    background-image: url("Gemini_Generated_Image_lb1lrslb1lrslb1l.jpeg");
+    background-color: #1a1a1a; /* Cor de segurança caso a imagem demore para carregar */
+    padding: 200px 20px;
+    background-size: cover;
+    background-position: center;
+    color: var(--branco);
+    text-align: center;
+    /* Película escura sobre a imagem para destacar e facilitar a leitura do texto */
+    box-shadow: inset 0 0 0 1000px rgba(0,0,0,0.65); 
+}
+
+/* Título de nível 2 dentro do banner hero */
+.hero h2 {
+    font-size: 38px;
+    margin-bottom: 15px;
+    color: var(--cor-secundaria);
+}
+
+/* Parágrafo dentro do banner hero */
+.hero p {
+    font-size: 20px;
+}
+
+/* Seletor das seções principais de conteúdo */
+.secao {
+    background: var(--cor-fundo-secao);
+    margin: 30px auto;
+    max-width: 900px;
+    text-align: center;
+    padding: 40px 20px;
+    border-radius: 6px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+/* Título principal de cada seção */
+.secao h2 {
+    color: var(--cor-primaria);
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
+/* Parágrafos internos das seções */
+.secao p {
+    line-height: 1.6;
+}
+
+/* Container dos cards de serviços */
+.container-servicos {
+    margin-top: 20px;
+}
+
+/* Cards individuais de serviço */
+.servico {
+    background: var(--cor-fundo-card);
+    color: var(--cor-texto-card);
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 6px;
+    transition: 0.3s;
+    border-left: 5px solid var(--cor-secundaria);
+}
+
+/* Efeito ao passar o mouse sobre o card */
+.servico:hover {
+    background: var(--cor-primaria);
+    transform: translateY(-5px);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+}
+
+/* Título do serviço */
+.servico h3 {
+    color: var(--cor-secundaria);
+    margin-bottom: 10px;
+}
+
+/* Formulário de contato */
+form {
+    margin-top: 20px;
+}
+
+/* Campos de entrada e caixa de texto */
+input, textarea {
+    width: 100%;
+    margin-top: 12px;
+    padding: 12px;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+textarea {
+    resize: vertical;
+}
+
+/* Botão de envio do formulário */
+.btn-enviarForm {
+    margin-top: 20px;
+    padding: 12px 25px;
+    background: var(--cor-secundaria);
+    color: var(--cor-primaria);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+/* Efeito ao passar o mouse sobre o botão */
+.btn-enviarForm:hover {
+    background: var(--verde-whatsapp);
+    color: var(--branco);
+}
+
+/* Rodapé do site */
+footer {
+    background: var(--cor-primaria);
+    color: var(--branco);
+    text-align: center;
+    padding: 15px;
+    margin-top: 30px;
+    border-top: 3px solid var(--cor-secundaria);
+}
